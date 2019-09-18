@@ -1,8 +1,8 @@
 public class gitExercise {
 
     public static void main(String args[]) {
-
-        randomPrint;
+        randomPrint test = new randomPrint();
+        test.main(args);
 
     }
 
