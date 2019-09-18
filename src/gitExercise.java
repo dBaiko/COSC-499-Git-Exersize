@@ -24,18 +24,4 @@ public class gitExercise {
         }
         System.out.println(sum);
     }
-    private static void quickReorder (int[] x)
-    {
-        int y;
-        for ( int i=0; i<(x.length-1); i++)
-        {
-            if (x[i]<x[i+1])
-            {
-                y=x[i];
-                x[i]=x[i+1];
-                x[i+1]=y;
-            }
-        }
-    }
-
 }
