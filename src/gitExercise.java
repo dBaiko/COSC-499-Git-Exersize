@@ -6,7 +6,7 @@ public class gitExercise {
 
         printHi(10);
 
-        addUpTo(15);
+        addUpTo(20);
 
     }
 
